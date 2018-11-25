@@ -5,7 +5,6 @@ import elemental2.promise.Promise;
 import org.junit.Assert;
 import org.junit.Test;
 
-//@J2clTestInput(TestSample.class)
 public class TestSample {
 
     @Test
